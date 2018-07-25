@@ -1,5 +1,9 @@
 # cookie_upgrader
 
+## Name
+
+It's about the session, right, not the cookie? So ... session rotator is a better name? (Like below).
+
 ## Other Options
 
 - https://github.com/fac/hestia - MonkeyPunches into SignedJar, but I'm not sure that's always used in all cases.
