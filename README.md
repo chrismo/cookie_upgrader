@@ -1,5 +1,7 @@
 # cookie_upgrader
 
+5.2 supports this in Rails itself. So ...
+
 ## Name
 
 It's about the session, right, not the cookie? So ... session rotator is a better name? (Like below).
